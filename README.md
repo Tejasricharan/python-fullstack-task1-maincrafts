@@ -6,6 +6,7 @@ Frontend	HTML, CSS
 Backend	Python, Flask
 Database	SQLite
 Tools	VS Code, Browser
+
 Application Features:
 Home page with user input form
 
@@ -28,6 +29,7 @@ PYTHON-FULL-STACK-TASK-1/
 ├── database.db         # SQLite database
 ├── screenshots/        # Output screenshots
 └── README.md           # Project documentation
+
 Project Flow:
 User enters details in the HTML form
 
