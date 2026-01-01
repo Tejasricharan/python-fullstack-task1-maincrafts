@@ -27,7 +27,6 @@ PYTHON-FULL-STACK-TASK-1/
 ├── static/
 │   └── style.css       # Styling
 ├── database.db         # SQLite database
-├── screenshots/        # Output screenshots
 └── README.md           # Project documentation
 
 Project Flow:
